@@ -8,6 +8,7 @@ To run the project from the GitHub repository Indigo-Invest/simple-react-socket-
 Ensure you have the following installed:
 
 Node.js (preferably version 14 or higher)
+
 npm (Node Package Manager)
 
 📁 Project Structure
